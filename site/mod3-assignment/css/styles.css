@@ -1,0 +1,63 @@
+#header-nav {
+	background-color: #ff5733;
+	border: 0;
+	box-shadow: 0 3px 3px #777
+}
+
+.navbar-brand h1 {
+	color: #fff;
+	font-size: 1.3em;
+	text-transform: uppercase;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+}
+
+
+.navbar-toggle {
+	color: #fff;
+}
+
+#collapsable-nav {
+    background-color: #ddd;
+    text-align: center;
+    margin-top: -18px;
+  }
+
+#collapsable-nav a { /* Collapsed nav menu text */
+    font-size: 1.2em;
+    color: #000;
+  }
+
+#collapsable-nav a span { /* Collapsed nav menu glyph */
+   font-size: 1em;
+   margin-right: 5px;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #fff;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #fff;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+ hr.collapsable-seperator {
+	margin: 0;
+	border-color: #999;
+}
+
+.icon-bar {
+	box-shadow: 0 1px 1px #fff;
+}
+
+.text-content {
+	background-color: #eee;
+}
+
